@@ -1,22 +1,25 @@
-# interactive-image-gallery
+# Responsive Photo Gallery | CSS Grid & Flexbox
 
-# Interactive Bento Grid Gallery
-
-A responsive, modern image gallery built using **CSS Grid** and **Flexbox**. This project focuses on mastering layout techniques, hover transitions, and background image blending.
+A modern, responsive image gallery built using **HTML5** and **CSS3**. This project demonstrates the power of **CSS Grid** for complex layouts and **Flexbox** for alignment, featuring a dark-themed UI with interactive hover effects.
 
 ## 🚀 Features
-* **Bento-style Grid:** Utilizes `grid-template-columns` and `grid-row/column: span` for a dynamic layout.
-* **Flexbox Layout:** Side-by-side arrangement for descriptive text and the gallery.
-* **Hover Effects:** Smooth scaling (`transform: scale(1.1)`) and vertical movement on text.
-* **Background Blending:** Uses `background-blend-mode: hard-light` for a stylized dark-to-light image effect.
+* **Dynamic Grid Layout:** Uses `grid-template-columns` and `grid-row/column: span` for an asymmetrical, artistic look.
+* **Advanced Styling:** Implements `background-blend-mode` for a sophisticated aesthetic.
+* **Interactive UI:** Smooth transitions and scale transformations on hover.
+* **Fully Responsive:** Optimized for desktops, tablets, and mobile devices using CSS Media Queries.
 
-## 🛠️ Technologies Used
+## 🛠️ Built With
 * **HTML5:** Semantic structure.
-* **CSS3:** Custom properties, CSS Grid, Flexbox, and Transitions.
+* **CSS3:** Grid, Flexbox, Transitions, and Media Queries.
+* **Images:** Sourced from Unsplash and Pexels.
 
 ## 📸 Preview
-* **City, Nature, Forest, Beauty, Rain, Sunset, Ocean** - A themed collection of high-quality images from Pexels and Unsplash.
+* **Desktop:** 3-column complex grid with sidebar text.
+* **Tablet:** 2-column simplified grid.
+* **Mobile:** Single-column stacked layout.
 
 ## 🏗️ How to Run
 1. Clone this repository.
 2. Open `htmlCssExercise.html` in any modern web browser.
+or click link
+   https://vishsaini18.github.io/interactive-image-gallery/
